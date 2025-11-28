@@ -32,6 +32,7 @@ Forma parte de un proyecto MERN, donde este backend provee el CRUD de artículos
   "date": "2025-11-16T20:53:09.190Z",
   "__v": 0
 }
+```
 
 ##▶️ Scripts disponibles
 
