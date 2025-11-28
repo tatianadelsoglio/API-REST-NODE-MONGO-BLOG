@@ -70,15 +70,15 @@ Ejecutar la API: npm start
 
 ## 🛠️ Dependencias
 
-"dependencies": {
-  "cors": "^2.8.5",
-  "express": "^5.1.0",
-  "mongoose": "^8.19.4",
-  "multer": "^2.0.2",
-  "validator": "^13.15.23"
-},
-"devDependencies": {
-  "nodemon": "^3.1.11"
+"dependencies": {<br>
+  "cors": "^2.8.5",<br>
+  "express": "^5.1.0",<br>
+  "mongoose": "^8.19.4",<br>
+  "multer": "^2.0.2",<br>
+  "validator": "^13.15.23"<br>
+},<br>
+"devDependencies": {<br>
+  "nodemon": "^3.1.11"<br>
 }
 
 ## 👩‍💻 Autora
