@@ -34,7 +34,7 @@ Forma parte de un proyecto MERN, donde este backend provee el CRUD de artículos
 }
 ```
 
-##▶️ Scripts disponibles
+## ▶️ Scripts disponibles
 
 En package.json:
 
@@ -45,7 +45,7 @@ En package.json:
 Ejecutar la API: npm start
 
 
-##📡 Endpoints principales
+## 📡 Endpoints principales
 
 📌 Los nombres pueden variar según tu router; ajustalo si hiciste cambios.
 
@@ -68,7 +68,7 @@ Ejecutar la API: npm start
 📍 DELETE /api/articulo/:id, Elimina un artículo.
 
 
-##🛠️ Dependencias
+## 🛠️ Dependencias
 
 "dependencies": {
   "cors": "^2.8.5",
@@ -81,6 +81,6 @@ Ejecutar la API: npm start
   "nodemon": "^3.1.11"
 }
 
-##👩‍💻 Autora
+## 👩‍💻 Autora
 Tatiana Delsoglio
 Full Stack Developer | React.js · Node.js · MySQL · MongoDB · API REST | Android Developer (Kotlin)
