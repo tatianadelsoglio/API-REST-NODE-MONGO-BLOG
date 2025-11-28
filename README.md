@@ -82,5 +82,5 @@ Ejecutar la API: npm start
 }
 
 ## 👩‍💻 Autora
-Tatiana Delsoglio
+Tatiana Delsoglio<br>
 Full Stack Developer | React.js · Node.js · MySQL · MongoDB · API REST | Android Developer (Kotlin)
